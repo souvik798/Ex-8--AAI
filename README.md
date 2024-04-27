@@ -11,7 +11,8 @@
 **`Step 2:`** Initialize the Recognizer<Br>
 **`Step 3:`** Create an instance of the Recognizer class, which will be used for recognizing speech.<Br>
 **`Step 4:`** Set the duration for audio capture<Br>
-**`Step 5:`** Define a variable to specify the duration (in seconds) for which the program will capture audio from the microphone.<Br>
+**`Step 5:`** Define a variable to specify the duration (in seconds) for which the program will capture <Br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;audio from the microphone.<Br>
 **`Step 6:`** Display a message in the console to prompt the user to speak.<Br>
 **`Step 7:`** Capture audio from the default microphone<Br>
 **`Step 9:`** Use the default microphone as the audio source.<Br>
