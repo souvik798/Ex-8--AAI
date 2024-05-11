@@ -1,5 +1,5 @@
-<H3>Name : Kaushika A</H3>
-<H3>Reg no: 212221230048</H3>
+<H3>Name : SOUVIK KUNDU</H3>
+<H3>Reg no: 212221230105</H3>
 <H3>EX. NO: 8</H3>
 <H3>DATE: 27-04-2024</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
